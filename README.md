@@ -1,4 +1,4 @@
-# GuffiBot
+# GuffiBot discord bot
 <p>
   <a href="https://discord.gg/yqt68j6Gdk">
     <img src="https://img.shields.io/discord/785088147721027585.svg?logo=discord&colorB=7289DA" alt="Discord">
